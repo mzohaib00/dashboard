@@ -1,6 +1,6 @@
 import React from "react"
 
-function Nikahinislam(){
+function NikahInIslam(){
     return(
         <div>
             <h3>In Islam, "Nikah" refers to the marriage contract, and it is considered one of the most important acts a Muslim can undertake. Nikah is a sacred and legal contract that establishes the relationship between a husband and wife, and it is governed by Islamic law, known as Sharia.
@@ -33,4 +33,4 @@ It's important to note that the specific practices and customs surrounding Nikah
         </div>
     )
 }
-export default Nikahinislam
+export default NikahInIslam
