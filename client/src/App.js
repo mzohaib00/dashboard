@@ -8,6 +8,7 @@ const App = () => {
       welcome to webdevrs 
       <Testing />
       <wassihaider/>
+      <Test />
     </div>
   )
 }
