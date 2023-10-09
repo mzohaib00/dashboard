@@ -6,6 +6,7 @@ const App = () => {
     <div>
       welcome to webdevrs 
       <Testing />
+      <File/>
     </div>
   )
 }
