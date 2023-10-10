@@ -1,11 +1,13 @@
 import React from 'react'
+import Nav from './Nav'
+import Section from './Section'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
     <div>
-      hello 
-      
-      <h1>hello</h1>
+      <Nav />
+      <Section />
     </div>
   )
 }
