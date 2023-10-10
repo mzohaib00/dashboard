@@ -1,10 +1,10 @@
 import React from 'react'
-import BasicButtons from './About-us/about'
+import MediaControlCard from './About-us/aboutus'
 
 const App = () => {
   return (
     <>
-    <BasicButtons/>
+    <MediaControlCard/>
     </>
   )
 }
