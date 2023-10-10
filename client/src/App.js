@@ -1,12 +1,11 @@
 import React from 'react'
+import MediaControlCard from './About-us/aboutus'
 
 const App = () => {
   return (
-    <div>
-      hello 
-      
-      <h1>hello</h1>
-    </div>
+    <>
+    <MediaControlCard/>
+    </>
   )
 }
 
