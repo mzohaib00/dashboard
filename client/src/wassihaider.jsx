@@ -2,7 +2,7 @@ import React from "react";
 
 function wassihaider (){
     return( 
-        <H1>Wassi Haider</H1>
+        <h1>Wassi Haider</h1>
     )
 }
 
