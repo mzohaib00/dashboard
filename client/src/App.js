@@ -1,16 +1,12 @@
 import React from 'react'
-import Testing from './Testing'
-import wassihaider from './wassihaider'
-import Cafe from './Cafe'
+import LatestBlog from './LatestBlog'
 
 const App = () => {
   return (
     <div>
-      {/* welcome to webdevrs  */}
-      {/* <Testing /> */}
-      {/* <wassihaider/> */}
-      {/* <Test /> */}
-      <Cafe/>
+    <LatestBlog/>
+
+      
     </div>
   )
 }
