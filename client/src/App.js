@@ -2,13 +2,17 @@ import React from 'react'
 import Nav from './Nav'
 import Section from './Section'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import MediaControlCard from './About-us/aboutus'
+import LatestBlog from './LatestBlog'
 
 const App = () => {
   return (
-    <div>
-      <Nav />
-      <Section />
-    </div>
+    <>
+    <Nav />
+    <Section />
+    <MediaControlCard/>
+    <LatestBlog/>
+    </>
   )
 }
 
