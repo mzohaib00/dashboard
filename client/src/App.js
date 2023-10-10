@@ -6,6 +6,20 @@ const App = () => {
       <>
       <ImgMediaCard/>
       </>
+import Nav from './Nav'
+import Section from './Section'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import MediaControlCard from './About-us/aboutus'
+import LatestBlog from './LatestBlog'
+
+const App = () => {
+  return (
+    <>
+    <Nav />
+    <Section />
+    <MediaControlCard/>
+    <LatestBlog/>
+    </>
   )
 }
 
