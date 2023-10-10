@@ -1,10 +1,11 @@
 import React from 'react'
+import ImgMediaCard from './Component/Furniture'
 
 const App = () => {
   return (
-    <div>
-    
-    </div>
+      <>
+      <ImgMediaCard/>
+      </>
   )
 }
 
